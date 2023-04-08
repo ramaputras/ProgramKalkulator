@@ -10,5 +10,5 @@ Prosedur Penggunaan: (** Pastikan Node.Js telah terinstall)
 2. Simpan file kalkulator.js pada tempat yang diinginkan
 3. Buka "command prompt" dengan mengetik "cmd" (untuk Windows) pada search bar
 4. Ubah directory ke tempat yang menyimpan file kalkulator.js menggunakan fungsi cd;
-   contoh:(" cd C:\Users\ramaputras\OneDrive\Desktop")
-5. Akses file kalkulator.js dengan mengetikkan "node kalkulator.js"
+5. Contoh perubahan directory: (" cd C:\Users\ramaputras\OneDrive\Desktop")
+6. Akses file kalkulator.js dengan mengetikkan "node kalkulator.js"
