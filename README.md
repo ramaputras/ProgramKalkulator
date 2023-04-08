@@ -1,6 +1,5 @@
 # ProgramKalkulator
 
-Aplikasi "kalkulator sederhana"
 oleh Ramandha Putra Suryahadi 
 2201140
 
