@@ -1,12 +1,12 @@
 # ProgramKalkulator
-# Aplikasi "kalkulator sederhana"
-# oleh Ramandha Putra Suryahadi 
-# 2201140
+
+Aplikasi "kalkulator sederhana"
+oleh Ramandha Putra Suryahadi 
+2201140
+
 Program yang dibuat untuk melakukan operasi aritmatika sederhana mulai dari penjumlahan hingga akar
 
-** Pastikan Node.Js telah terinstall
-
-Prosedur Penggunaan:
+Prosedur Penggunaan: (** Pastikan Node.Js telah terinstall)
 1. Download terlebih dahulu file kalkulator.js
 2. Simpan file kalkulator.js pada tempat yang diinginkan
 3. Buka "command prompt" dengan mengetik "cmd" (untuk Windows) pada search bar
